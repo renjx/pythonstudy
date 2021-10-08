@@ -18,5 +18,3 @@ https://www.liaoxuefeng.com/wiki/1016959663602400<br>
 本课程的任务和答案我也会同步发到github：<br>
 https://github.com/renjx/pythonstudy.git
 
-
-
